@@ -1,0 +1,10 @@
+{
+  "name": "cleaner_earth_graphql",
+  "version": "1.0.0",
+  "description": "A GraphQL API for the cleaner.earth project",
+  "main": "server.js",
+  "repository": "https://github.com/rkehr/cleaner_earth_graphql",
+  "author": "Robin Kehr",
+  "license": "MIT",
+  "private": false
+}
